@@ -1,0 +1,4176 @@
+[
+  {
+    "number": "54",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Flashspan_produdction_1",
+        "key": "ARTT",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Flashspan@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Oyoyo_staging_2",
+        "key": "FPJ",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Yabox_produdction_3",
+        "key": "CHGI",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Yabox@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Feednation_staging_4",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Vinte_produdction_5",
+        "key": "DOCG",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Vinte@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Browseblab_staging_6",
+        "key": "AUB",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Brightbean_produdction_7",
+        "key": "ELTEL",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Brightbean@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Photobug_staging_8",
+        "key": "FFGS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Jaxbean_produdction_9",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Jaxbean@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Vinte_staging_10",
+        "key": "FORCE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Eabox_produdction_11",
+        "key": "JNJ",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Eabox@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Brainlounge_staging_12",
+        "key": "MW",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Voonyx_produdction_13",
+        "key": "OS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Voonyx@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Snaptags_staging_14",
+        "key": "SEK",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Yadel_produdction_15",
+        "key": "CTNB",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Yadel@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Topicstorm_staging_16",
+        "key": "VE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Ooba_produdction_17",
+        "key": "VS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Ooba@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Yombu_staging_18",
+        "key": "NSE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Jatri_produdction_19",
+        "key": "CRIAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Jatri@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Skilith_staging_20",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Kayveo_produdction_21",
+        "key": "IE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Kayveo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Tanoodle_staging_22",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Babbleset_produdction_23",
+        "key": "SSE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Babbleset@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Tagchat_staging_24",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "40",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Avavee_produdction_1",
+        "key": "ACTIS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Avavee@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Trilith_staging_2",
+        "key": "ANX",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Thoughtblab_produdction_3",
+        "key": "CAB",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Thoughtblab@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Flipopia_staging_4",
+        "key": "DOCG",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Riffpedia_produdction_5",
+        "key": "ELFIX",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Riffpedia@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Midel_staging_6",
+        "key": "ELFIX",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Jaxworks_produdction_7",
+        "key": "FOM",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Jaxworks@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Meemm_staging_8",
+        "key": "FOM",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Brainverse_produdction_9",
+        "key": "JBH",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Brainverse@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Brightdog_staging_10",
+        "key": "ACTIS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "04",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Trudoo_produdction_1",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Trudoo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Abatz_staging_2",
+        "key": "DCHC",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Oyoyo_produdction_3",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Oyoyo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Meezzy_staging_4",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Voomm_produdction_5",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Voomm@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Brainsphere_staging_6",
+        "key": "JA",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Youspan_produdction_7",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Youspan@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Shuffledrive_staging_8",
+        "key": "LTM",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Yombu_produdction_9",
+        "key": "MEC",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Yombu@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Demizz_staging_10",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Gabspot_produdction_11",
+        "key": "LTM",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Gabspot@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Quimba_staging_12",
+        "key": "SAMS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Yadel_produdction_13",
+        "key": "SAMS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Yadel@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Centimia_staging_14",
+        "key": "SAMS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Jaxworks_produdction_15",
+        "key": "TECEB",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Jaxworks@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Avamm_staging_16",
+        "key": "TOUCH",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "65",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Meembee_produdction_1",
+        "key": "AS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Meembee@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "68",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Meembee_staging_1",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Skyba_produdction_2",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Skyba@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Tagpad_staging_3",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Dablist_produdction_4",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Dablist@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "52",
+    "config": { "updateAfter": "19:00" },
+    "instances": [
+      {
+        "target": "Skilith_staging_1",
+        "key": "BRE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Tanoodle_produdction_2",
+        "key": "CHOUR",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Tanoodle@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Fivebridge_staging_3",
+        "key": "LEH",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Flashpoint_produdction_4",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Flashpoint@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Dynava_staging_5",
+        "key": "QUAD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Teklist_produdction_6",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Teklist@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Gevee_staging_7",
+        "key": "STS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "42",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Skyvu_produdction_1",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Skyvu@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Voomm_staging_2",
+        "key": "QUAD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Innotype_produdction_3",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Innotype@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Vinder_staging_4",
+        "key": "QUAD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "69",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Feedmix_produdction_1",
+        "key": "BIS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Feedmix@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Browsecat_staging_2",
+        "key": "WEHE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Twinte_produdction_3",
+        "key": "BDP",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Twinte@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Linkbridge_staging_4",
+        "key": "FLD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Npath_produdction_5",
+        "key": "WCE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Npath@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Youspan_staging_6",
+        "key": "CHGI",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Ailane_produdction_7",
+        "key": "CHGI",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Ailane@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Yombu_staging_8",
+        "key": "CHGI",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Twitterlist_produdction_9",
+        "key": "CHGI",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Twitterlist@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Gabtune_staging_10",
+        "key": "CHGI",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Rhycero_produdction_11",
+        "key": "CHGI",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Rhycero@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Skinder_staging_12",
+        "key": "IMP",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Mycat_produdction_13",
+        "key": "BDP",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Mycat@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "60",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Meezzy_staging_1",
+        "key": "BOL",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Mydo_produdction_2",
+        "key": "SM",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Mydo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "BlogXS_staging_3",
+        "key": "ELFIX",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Zooveo_produdction_4",
+        "key": "ELFIX",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Zooveo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Shufflester_staging_5",
+        "key": "DYNA",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Oyoloo_produdction_6",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Oyoloo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Geba_staging_7",
+        "key": "QUAD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Realmix_produdction_8",
+        "key": "VENT",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Realmix@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Npath_staging_9",
+        "key": "GREA",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Realcube_produdction_10",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Realcube@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Skipfire_staging_11",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Jaxbean_produdction_12",
+        "key": "STS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Jaxbean@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "20",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Skalith_staging_1",
+        "key": "NWI",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Roombo_produdction_2",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Roombo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Photobug_staging_3",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Omba_produdction_4",
+        "key": "STS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Omba@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Edgeclub_staging_5",
+        "key": "STS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Roodel_produdction_6",
+        "key": "FREI",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Roodel@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Mybuzz_staging_7",
+        "key": "STS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Cogidoo_produdction_8",
+        "key": "STS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Cogidoo@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "aubep-vm-testerp",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Skippad_staging_1",
+        "key": "DYNA",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "46",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Skaboo_produdction_1",
+        "key": "ACK",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Skaboo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Brightdog_staging_2",
+        "key": "ELTEL",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Ainyx_produdction_3",
+        "key": "ACK",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Ainyx@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Kamba_staging_4",
+        "key": "BT",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Innojam_produdction_5",
+        "key": "BA",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Innojam@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Devshare_staging_6",
+        "key": "CTNB",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Cogilith_produdction_7",
+        "key": "AUB",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Cogilith@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Shuffletag_staging_8",
+        "key": "ED",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Kazu_produdction_9",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Kazu@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Brainverse_staging_10",
+        "key": "FORCE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Trunyx_produdction_11",
+        "key": "IDFIND",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Trunyx@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Mydo_staging_12",
+        "key": "SAPA",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Devshare_produdction_13",
+        "key": "BF",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Devshare@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "56",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Riffpath_staging_1",
+        "key": "FFGS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "BlogXS_produdction_2",
+        "key": "JLCS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["BlogXS@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Latz_staging_3",
+        "key": "LPEE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Dynazzy_produdction_4",
+        "key": "LPEE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Dynazzy@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Lazz_staging_5",
+        "key": "LPEE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Vipe_produdction_6",
+        "key": "LPEE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Vipe@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Meembee_staging_7",
+        "key": "LPEE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Nlounge_produdction_8",
+        "key": "MW",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Nlounge@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Wordify_staging_9",
+        "key": "RSF",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Teklist_produdction_10",
+        "key": "SSE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Teklist@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Rhynyx_staging_11",
+        "key": "VS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "58",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Eabox_produdction_1",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Eabox@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Tekfly_staging_2",
+        "key": "QUAD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Vimbo_produdction_3",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Vimbo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Meetz_staging_4",
+        "key": "QUAD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Zoovu_produdction_5",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Zoovu@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Eadel_staging_6",
+        "key": "QUAD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "72",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Twimbo_produdction_1",
+        "key": "QE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Twimbo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Thoughtstorm_staging_2",
+        "key": "CHGI",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Eabox_produdction_3",
+        "key": "WBSC",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Eabox@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Twitternation_staging_4",
+        "key": "CHGI",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Linklinks_produdction_5",
+        "key": "FPJ",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Linklinks@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Oyoyo_staging_6",
+        "key": "CHGI",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Oodoo_produdction_7",
+        "key": "CHGI",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Oodoo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Yambee_staging_8",
+        "key": "CHGI",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Plajo_produdction_9",
+        "key": "CHGI",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Plajo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Realbridge_staging_10",
+        "key": "CHGI",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Yacero_produdction_11",
+        "key": "SE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Yacero@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Skivee_staging_12",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "48",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Quimba_produdction_1",
+        "key": "BAT",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Quimba@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Ainyx_staging_2",
+        "key": "BI",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Avamba_produdction_3",
+        "key": "ACE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Avamba@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Centidel_staging_4",
+        "key": "ACE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Kayveo_produdction_5",
+        "key": "DTGS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Kayveo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Aimbu_staging_6",
+        "key": "ERKA",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Edgeblab_produdction_7",
+        "key": "ERKA",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Edgeblab@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Shuffledrive_staging_8",
+        "key": "MIO",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Eabox_produdction_9",
+        "key": "NSER",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Eabox@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Dynabox_staging_10",
+        "key": "VO",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "84",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Tagcat_produdction_1",
+        "key": "EVC",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Tagcat@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Latz_staging_2",
+        "key": "WE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Demivee_produdction_3",
+        "key": "GI",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Demivee@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Feedfire_staging_4",
+        "key": "GI",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Zava_produdction_5",
+        "key": "GI",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Zava@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Podcat_staging_6",
+        "key": "GI",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Snaptags_produdction_7",
+        "key": "GI",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Snaptags@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Blogpad_staging_8",
+        "key": "FPJ",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Zoovu_produdction_9",
+        "key": "WEHE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Zoovu@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Riffwire_staging_10",
+        "key": "CROS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Gabtype_produdction_11",
+        "key": "WEHE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Gabtype@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Talane_staging_12",
+        "key": "SR",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Skynoodle_produdction_13",
+        "key": "CROS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Skynoodle@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Demimbu_staging_14",
+        "key": "CROS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "45",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Reallinks_produdction_1",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Reallinks@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Browsecat_staging_2",
+        "key": "QUAD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Tagtune_produdction_3",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Tagtune@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "44",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Twinte_staging_1",
+        "key": "DOCG",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Zoombox_produdction_2",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Zoombox@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Blogtags_staging_3",
+        "key": "HWS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Tekfly_produdction_4",
+        "key": "IDFIND",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Tekfly@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Dabvine_staging_5",
+        "key": "FOM",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Ainyx_produdction_6",
+        "key": "SAPA",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Ainyx@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "55",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Meezzy_staging_1",
+        "key": "AE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Realpoint_produdction_2",
+        "key": "PRO",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Realpoint@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Wikizz_staging_3",
+        "key": "SAPA",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Twinte_produdction_4",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Twinte@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Meevee_staging_5",
+        "key": "JLCS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Yakidoo_produdction_6",
+        "key": "JLCS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Yakidoo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Skibox_staging_7",
+        "key": "JLCS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Edgepulse_produdction_8",
+        "key": "JLCS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Edgepulse@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Riffpedia_staging_9",
+        "key": "RMG",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Centidel_produdction_10",
+        "key": "RSF",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Centidel@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Mydeo_staging_11",
+        "key": "BEC",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Zava_produdction_12",
+        "key": "CHS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Zava@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Wikibox_staging_13",
+        "key": "APS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Kamba_produdction_14",
+        "key": "APS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Kamba@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Brightbean_staging_15",
+        "key": "BI",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Skinte_produdction_16",
+        "key": "LEN",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Skinte@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Brainbox_staging_17",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Jabbertype_produdction_18",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Jabbertype@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Dabvine_staging_19",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Plajo_produdction_20",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Plajo@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "53",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Topicshots_staging_1",
+        "key": "QUAD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Kwimbee_produdction_2",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Kwimbee@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Gabtune_staging_3",
+        "key": "QUAD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Centimia_produdction_4",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Centimia@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "85",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Fiveclub_staging_1",
+        "key": "QUAD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Fatz_produdction_2",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Fatz@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Flipbug_staging_3",
+        "key": "QUAD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "38",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Linklinks_produdction_1",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Linklinks@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Skivee_staging_2",
+        "key": "QUAD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Wikido_produdction_3",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Wikido@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Realmix_staging_4",
+        "key": "EUR",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "BlogXS_produdction_5",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["BlogXS@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "50",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Oozz_staging_1",
+        "key": "essc",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "80",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Feedfish_produdction_1",
+        "key": "FMS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Feedfish@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Gabcube_staging_2",
+        "key": "FX",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Voonder_produdction_3",
+        "key": "FX",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Voonder@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Flipstorm_staging_4",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Skipfire_produdction_5",
+        "key": "FX",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Skipfire@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Trudeo_staging_6",
+        "key": "FX",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Jaxworks_produdction_7",
+        "key": "ABS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Jaxworks@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Rhycero_staging_8",
+        "key": "RSI",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Roomm_produdction_9",
+        "key": "RSI",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Roomm@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Skinder_staging_10",
+        "key": "RSI",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Flashset_produdction_11",
+        "key": "FX",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Flashset@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Dablist_staging_12",
+        "key": "FX",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Kwinu_produdction_13",
+        "key": "FX",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Kwinu@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "66",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Yozio_staging_1",
+        "key": "SSE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Dabvine_produdction_2",
+        "key": "DOCG",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Dabvine@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "BlogXS_staging_3",
+        "key": "AUX",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Rhyzio_produdction_4",
+        "key": "SCHOEC",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Rhyzio@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Topicshots_staging_5",
+        "key": "ACK",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Avamba_produdction_6",
+        "key": "ALP",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Avamba@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Centimia_staging_7",
+        "key": "RS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Edgeclub_produdction_8",
+        "key": "MIO",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Edgeclub@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Babblestorm_staging_9",
+        "key": "VO",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Gigashots_produdction_10",
+        "key": "APE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Gigashots@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Twitterlist_staging_11",
+        "key": "ACT",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Mybuzz_produdction_12",
+        "key": "PFS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Mybuzz@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Realfire_staging_13",
+        "key": "ASS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Dabshots_produdction_14",
+        "key": "AUB",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Dabshots@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Wordware_staging_15",
+        "key": "AUB",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Bubblebox_produdction_16",
+        "key": "SESS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Bubblebox@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Rhybox_staging_17",
+        "key": "CHIMC",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "79",
+    "config": { "updateAfter": "19:00" },
+    "instances": [
+      {
+        "target": "Wikizz_produdction_1",
+        "key": "HCSE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Wikizz@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Realbuzz_staging_2",
+        "key": "ARTT",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Bluezoom_produdction_3",
+        "key": "OS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Bluezoom@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Riffwire_staging_4",
+        "key": "JLCS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Skiba_produdction_5",
+        "key": "IE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Skiba@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Flashdog_staging_6",
+        "key": "CB",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Tagpad_produdction_7",
+        "key": "PE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Tagpad@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Meejo_staging_8",
+        "key": "JNJ",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Edgewire_produdction_9",
+        "key": "MVE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Edgewire@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "81",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Katz_staging_1",
+        "key": "DTEC",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Rhynyx_produdction_2",
+        "key": "GTE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Rhynyx@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Wordify_staging_3",
+        "key": "DTEC",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Npath_produdction_4",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Npath@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "35",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Thoughtstorm_staging_1",
+        "key": "INODECO",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Skyba_produdction_2",
+        "key": "SPE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Skyba@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Kwimbee_staging_3",
+        "key": "VMDH",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Wikivu_produdction_4",
+        "key": "VENT",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Wikivu@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Mynte_staging_5",
+        "key": "FPJ",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Brightbean_produdction_6",
+        "key": "FPJ",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Brightbean@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Meedoo_staging_7",
+        "key": "WEHE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Devcast_produdction_8",
+        "key": "BDP",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Devcast@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Bubblemix_staging_9",
+        "key": "NSE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "83",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Skilith_produdction_1",
+        "key": "LS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Skilith@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Yoveo_staging_2",
+        "key": "FMS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Photobean_produdction_3",
+        "key": "SR",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Photobean@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Divape_staging_4",
+        "key": "MABASI",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Centizu_produdction_5",
+        "key": "FX",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Centizu@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Twinte_staging_6",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Vipe_produdction_7",
+        "key": "MABASI",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Vipe@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Teklist_staging_8",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Browsedrive_produdction_9",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Browsedrive@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Meembee_staging_10",
+        "key": "MFE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "43",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Realblab_produdction_1",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Realblab@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Flashset_staging_2",
+        "key": "CRIAD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "erp",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Izio_produdction_1",
+        "key": "DPT",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Izio@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "37",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Dynava_staging_1",
+        "key": "BF",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Quaxo_produdction_2",
+        "key": "BF",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Quaxo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Topicstorm_staging_3",
+        "key": "BF",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Browsebug_produdction_4",
+        "key": "BF",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Browsebug@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Gigazoom_staging_5",
+        "key": "BF",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Dablist_produdction_6",
+        "key": "BF",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Dablist@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Teklist_staging_7",
+        "key": "BF",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Mudo_produdction_8",
+        "key": "BF",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Mudo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Aivee_staging_9",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Bluezoom_produdction_10",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Bluezoom@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Buzzbean_staging_11",
+        "key": "ROC",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Jamia_produdction_12",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Jamia@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Vinte_staging_13",
+        "key": "ACVG",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Wikivu_produdction_14",
+        "key": "VIN",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Wikivu@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Tagpad_staging_15",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Zoonder_produdction_16",
+        "key": "BF",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Zoonder@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Jabbercube_staging_17",
+        "key": "ASR",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Cogibox_produdction_18",
+        "key": "ROC",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Cogibox@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Oyonder_staging_19",
+        "key": "ACVG",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Yamia_produdction_20",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Yamia@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Thoughtstorm_staging_21",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "70",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Fadeo_produdction_1",
+        "key": "FX",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Fadeo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Centidel_staging_2",
+        "key": "FX",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Yozio_produdction_3",
+        "key": "DOCG",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Yozio@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Ntags_staging_4",
+        "key": "LEN",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Yabox_produdction_5",
+        "key": "LEN",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Yabox@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "49",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Trilith_staging_1",
+        "key": "QUAD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Vidoo_produdction_2",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Vidoo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Divavu_staging_3",
+        "key": "GREA",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Meeveo_produdction_4",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Meeveo@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "rouages",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Shufflester_staging_1",
+        "key": "ROUA",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "74",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Twiyo_produdction_1",
+        "key": "AMS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Twiyo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Yombu_staging_2",
+        "key": "AMS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Gigaclub_produdction_3",
+        "key": "PFS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Gigaclub@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Yodo_staging_4",
+        "key": "FX",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Rhybox_produdction_5",
+        "key": "PFS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Rhybox@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Thoughtstorm_staging_6",
+        "key": "PFS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Jaloo_produdction_7",
+        "key": "PFS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Jaloo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Oodoo_staging_8",
+        "key": "PFS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Dablist_produdction_9",
+        "key": "PFS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Dablist@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Yamia_staging_10",
+        "key": "PFS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Avavee_produdction_11",
+        "key": "PFS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Avavee@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Zooveo_staging_12",
+        "key": "PFS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Ainyx_produdction_13",
+        "key": "FF",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Ainyx@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Topdrive_staging_14",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Demimbu_produdction_15",
+        "key": "ISE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Demimbu@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Twitterwire_staging_16",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Flipstorm_produdction_17",
+        "key": "TAG",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Flipstorm@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Topicstorm_staging_18",
+        "key": "TRA",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Tagcat_produdction_19",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Tagcat@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Yakidoo_staging_20",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Avamm_produdction_21",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Avamm@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Realpoint_staging_22",
+        "key": "RCHA",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Yamia_produdction_23",
+        "key": "RCH",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Yamia@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "62",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Realblab_staging_1",
+        "key": "BOL",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Aivee_produdction_2",
+        "key": "BOL",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Aivee@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Agivu_staging_3",
+        "key": "BOL",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "67",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Midel_produdction_1",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Midel@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Zoombeat_staging_2",
+        "key": "QUAD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Feedfish_produdction_3",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Feedfish@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Innojam_staging_4",
+        "key": "QUAD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Babbleblab_produdction_5",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Babbleblab@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "57",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Mybuzz_staging_1",
+        "key": "QUAD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Shuffletag_produdction_2",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Shuffletag@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "BlogXS_staging_3",
+        "key": "QUAD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "erp-test",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Plajo_produdction_1",
+        "key": "DPT",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Plajo@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "47",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Riffwire_staging_1",
+        "key": "QUAD",
+        "type": "STAGING",
+        "emails": [],
+        "erpProject": "Finance",
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Jabberbean_produdction_2",
+        "key": "AB",
+        "type": "PRODUCTION",
+        "emails": ["Jabberbean@email.ch"],
+        "erpProject": "Commercial",
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Mybuzz_staging_3",
+        "key": "QUAD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Zava_produdction_4",
+        "key": "LUXR",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Zava@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Zoomzone_staging_5",
+        "key": "MON",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Feedfish_produdction_6",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Feedfish@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Kwimbee_staging_7",
+        "key": "SA",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Jaxworks_produdction_8",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Jaxworks@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "76",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "LiveZ_staging_1",
+        "key": "BGS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Devbug_produdction_2",
+        "key": "FX",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Devbug@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Livetube_staging_3",
+        "key": "FX",
+        "type": "STAGING",
+        "emails": [],
+        "erpProject": "Finance",
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Photojam_produdction_4",
+        "key": "FX",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Photojam@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Brainlounge_staging_5",
+        "key": "ARQ",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Shuffletag_produdction_6",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Shuffletag@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Devpoint_staging_7",
+        "key": "HET",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Zazio_produdction_8",
+        "key": "ALP",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Zazio@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Devcast_staging_9",
+        "key": "NSE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Devpulse_produdction_10",
+        "key": "MDAE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Devpulse@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Meetz_staging_11",
+        "key": "MOC",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Thoughtbridge_produdction_12",
+        "key": "FPJ",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Thoughtbridge@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Tambee_staging_13",
+        "key": "FPJ",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Cogilith_produdction_14",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Cogilith@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "59",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Linktype_staging_1",
+        "key": "TEXNER",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Thoughtstorm_produdction_2",
+        "key": "CHGI",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Thoughtstorm@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Tanoodle_staging_3",
+        "key": "FVS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Shufflester_produdction_4",
+        "key": "APE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Shufflester@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Camimbo_staging_5",
+        "key": "FE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Realbuzz_produdction_6",
+        "key": "AL",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Realbuzz@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Demizz_staging_7",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Teklist_produdction_8",
+        "key": "FVS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Teklist@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Leexo_staging_9",
+        "key": "ACT",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Zoomlounge_produdction_10",
+        "key": "PRO",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Zoomlounge@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Zoovu_staging_11",
+        "key": "BEC",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Wikizz_produdction_12",
+        "key": "AE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Wikizz@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "test10",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Fadeo_staging_1",
+        "key": "test",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "64",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Skyvu_produdction_1",
+        "key": "CHIMC",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Skyvu@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Gigashots_staging_2",
+        "key": "CHIMC",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Babbleblab_produdction_3",
+        "key": "CHIMC",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Babbleblab@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Eare_staging_4",
+        "key": "CHIMC",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "77",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Brainsphere_produdction_1",
+        "key": "CHOUR",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Brainsphere@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Zoozzy_staging_2",
+        "key": "DTEC",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Feednation_produdction_3",
+        "key": "MEC",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Feednation@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Gabcube_staging_4",
+        "key": "SPE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Gigazoom_produdction_5",
+        "key": "DYNA",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Gigazoom@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Flipbug_staging_6",
+        "key": "DYNA",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Buzzshare_produdction_7",
+        "key": "QUAD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Buzzshare@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Feedmix_staging_8",
+        "key": "STS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Midel_produdction_9",
+        "key": "COJ",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Midel@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Fatz_staging_10",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "78",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Voonte_produdction_1",
+        "key": "HGE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Voonte@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Zoomlounge_staging_2",
+        "key": "HGE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Flashspan_produdction_3",
+        "key": "HGE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Flashspan@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Kwilith_staging_4",
+        "key": "MFE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Gabcube_produdction_5",
+        "key": "MFE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Gabcube@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Jazzy_staging_6",
+        "key": "MFE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Skalith_produdction_7",
+        "key": "MFE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Skalith@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Reallinks_staging_8",
+        "key": "HGE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Fanoodle_produdction_9",
+        "key": "IFC",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Fanoodle@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Centimia_staging_10",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Dynazzy_produdction_11",
+        "key": "SPO",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Dynazzy@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Gabtune_staging_12",
+        "key": "FX",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "51",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Eimbee_produdction_1",
+        "key": "APS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Eimbee@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Zoombeat_staging_2",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Blogtag_produdction_3",
+        "key": "CDPNDV",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Blogtag@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Thoughtstorm_staging_4",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Shufflester_produdction_5",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Shufflester@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Linklinks_staging_6",
+        "key": "LS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Tagpad_produdction_7",
+        "key": "SEK",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Tagpad@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Jaxworks_staging_8",
+        "key": "VE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Quimm_produdction_9",
+        "key": "APS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Quimm@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "73",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Cogilith_staging_1",
+        "key": "PE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Jatri_produdction_2",
+        "key": "SE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Jatri@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Yacero_staging_3",
+        "key": "BT",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Yakitri_produdction_4",
+        "key": "IDFIND",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Yakitri@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Leexo_staging_5",
+        "key": "MVE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Skinder_produdction_6",
+        "key": "BA",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Skinder@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Oodoo_staging_7",
+        "key": "WEHE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Flipopia_produdction_8",
+        "key": "BDP",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Flipopia@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Twimbo_staging_9",
+        "key": "QE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Gigaclub_produdction_10",
+        "key": "WBSC",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Gigaclub@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Tagcat_staging_11",
+        "key": "BF",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Realbridge_produdction_12",
+        "key": "FLD",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Realbridge@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Rooxo_staging_13",
+        "key": "FLD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Fliptune_produdction_14",
+        "key": "SFS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Fliptune@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Miboo_staging_15",
+        "key": "LEN",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Meevee_produdction_16",
+        "key": "ACSAL",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Meevee@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "41",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Tagchat_staging_1",
+        "key": "QUAD",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "75",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Oba_produdction_1",
+        "key": "AUX",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Oba@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Yacero_staging_2",
+        "key": "ERE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Brainlounge_produdction_3",
+        "key": "ERE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Brainlounge@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Topdrive_staging_4",
+        "key": "FF",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Linklinks_produdction_5",
+        "key": "ASS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Linklinks@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Skibox_staging_6",
+        "key": "FX",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Skidoo_produdction_7",
+        "key": "FLS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Skidoo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Photobug_staging_8",
+        "key": "FX",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Blogspan_produdction_9",
+        "key": "HOC",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Blogspan@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Jabbersphere_staging_10",
+        "key": "SLX",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Meevee_produdction_11",
+        "key": "ADE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Meevee@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Edgeblab_staging_12",
+        "key": "BAB",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Vitz_produdction_13",
+        "key": "SCJ",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Vitz@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "63",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Aimbu_staging_1",
+        "key": "CB",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Kamba_produdction_2",
+        "key": "CB",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Kamba@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Muxo_staging_3",
+        "key": "WE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Jabberstorm_produdction_4",
+        "key": "BRE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Jabberstorm@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Blogspan_staging_5",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Livefish_produdction_6",
+        "key": "HCSE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Livefish@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Brainverse_staging_7",
+        "key": "MAY",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Minyx_produdction_8",
+        "key": "BRE",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Minyx@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Flashspan_staging_9",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Ntag_produdction_10",
+        "key": "CHS",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Ntag@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "86",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Roodel_staging_1",
+        "key": "CHGI",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Jabbercube_produdction_2",
+        "key": "EGP",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Jabbercube@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Jaxworks_staging_3",
+        "key": "GTE",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Thoughtmix_produdction_4",
+        "key": "MAY",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Thoughtmix@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Feednation_staging_5",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Photojam_produdction_6",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Photojam@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Skyvu_staging_7",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Kazio_produdction_8",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Kazio@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Reallinks_staging_9",
+        "key": "SYN",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Jaloo_produdction_10",
+        "key": "RENO",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Jaloo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Voonder_staging_11",
+        "key": "SPS",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "87",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Centizu_produdction_1",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Centizu@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Skibox_staging_2",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Edgeblab_produdction_3",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Edgeblab@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Vinder_staging_4",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Blogtag_produdction_5",
+        "key": "POM",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Blogtag@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Eire_staging_6",
+        "key": "POM",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Flashdog_produdction_7",
+        "key": "POM",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Flashdog@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Quimba_staging_8",
+        "key": "FX",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Skyba_produdction_9",
+        "key": "POM",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Skyba@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Jabbertype_staging_10",
+        "key": "POM",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Oba_produdction_11",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Oba@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Blognation_staging_12",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "88",
+    "config": { "updateAfter": "" },
+    "instances": [
+      {
+        "target": "Gabcube_produdction_1",
+        "key": "POM",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Gabcube@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Oba_staging_2",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Kaymbo_produdction_3",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Kaymbo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Twiyo_staging_4",
+        "key": "MABASI",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  },
+  {
+    "number": "89",
+    "config": { "updateAfter": "19:00" },
+    "instances": [
+      {
+        "target": "Pixoboo_produdction_1",
+        "key": "RMG",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Pixoboo@email.ch"],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Meejo_staging_2",
+        "key": "",
+        "type": "STAGING",
+        "erpProject": "Finance",
+        "emails": [],
+        "url": "www.florentplomb.ch"
+      },
+      {
+        "target": "Edgetag_produdction_3",
+        "key": "",
+        "type": "PRODUCTION",
+        "erpProject": "Commercial",
+        "emails": ["Edgetag@email.ch"],
+        "url": "www.florentplomb.ch"
+      }
+    ]
+  }
+]
